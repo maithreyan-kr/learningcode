@@ -1,0 +1,5 @@
+1	Arun	Raj	EEE	02-08-2021	24-04-1998	8374779535	arun2gamail.com
+2	Bala	krish	CIVIL	05-06-2018	11-01-1996	7411112943	bala@gmail.com
+3	chinnu	Danam	MECH	04-03-2020	23-03-1997	9492847372	chinu@gmail.com
+4	David	Raja	CSC	03-03-2020	10-01-1996	8374779535	david@gmail.com
+5	Rajesh	david	ARCH	02-03-2020	09-01-1996	9492847372	rajesh@gmail.com
